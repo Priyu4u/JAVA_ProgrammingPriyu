@@ -15,5 +15,6 @@ public class variablesInDetail {
         System.out.println(x+""+y+z);
         System.out.println(x+y+""+z);
         System.out.println(x+y+z+"");
+        System.out.println("Hello"+"Priyanshu");
     }
 }
