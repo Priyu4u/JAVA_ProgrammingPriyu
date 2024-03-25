@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/areaOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/doubleDataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/incrementDecrementOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/percentage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/percentageIn60Marks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/simpleInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/volumeOfSphere.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/variablesInDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/variablesInDetail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +44,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.arithmeticOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basicsOfJava.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variablesInDetail.executor&quot;: &quot;Run&quot;,
-    &quot;Application.variables_int.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA_ProgrammingPriyu&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.areaOfCircle.executor": "Run",
+    "Application.arithmeticOperations.executor": "Run",
+    "Application.basicsOfJava.executor": "Run",
+    "Application.doubleDataType.executor": "Run",
+    "Application.incrementDecrementOperators.executor": "Run",
+    "Application.percentage.executor": "Run",
+    "Application.percentageIn60Marks.executor": "Run",
+    "Application.simpleInterest.executor": "Run",
+    "Application.variablesInDetail.executor": "Run",
+    "Application.variables_int.executor": "Run",
+    "Application.volumeOfSphere.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/JAVA_ProgrammingPriyu",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="basicsOfJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basics.basicsOfJava" />
@@ -114,6 +129,7 @@
       <workItem from="1711271061610" duration="32000" />
       <workItem from="1711286077811" duration="5468000" />
       <workItem from="1711297919113" duration="303000" />
+      <workItem from="1711364772618" duration="4948000" />
     </task>
     <servers />
   </component>
