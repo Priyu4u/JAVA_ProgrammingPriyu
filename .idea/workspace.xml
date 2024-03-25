@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Basics/areaOfCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/doubleDataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/incrementDecrementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/percentage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/percentageIn60Marks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/simpleInterest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/volumeOfSphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TakingInput/moduloOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TakingInput/remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TakingInput/square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TakingInput/sumOf2NumInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/TakingInput/takingInputFromUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basics/charDataType/charDataType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basics/variablesInDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/variablesInDetail.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,11 +48,17 @@
     "Application.areaOfCircle.executor": "Run",
     "Application.arithmeticOperations.executor": "Run",
     "Application.basicsOfJava.executor": "Run",
+    "Application.charDataType.executor": "Run",
     "Application.doubleDataType.executor": "Run",
     "Application.incrementDecrementOperators.executor": "Run",
+    "Application.moduloOperator.executor": "Run",
     "Application.percentage.executor": "Run",
     "Application.percentageIn60Marks.executor": "Run",
+    "Application.remainder.executor": "Run",
     "Application.simpleInterest.executor": "Run",
+    "Application.square.executor": "Run",
+    "Application.sumOf2NumInput.executor": "Run",
+    "Application.takingInputFromUser.executor": "Run",
     "Application.variablesInDetail.executor": "Run",
     "Application.variables_int.executor": "Run",
     "Application.volumeOfSphere.executor": "Run",
@@ -129,7 +133,8 @@
       <workItem from="1711271061610" duration="32000" />
       <workItem from="1711286077811" duration="5468000" />
       <workItem from="1711297919113" duration="303000" />
-      <workItem from="1711364772618" duration="4948000" />
+      <workItem from="1711364772618" duration="5398000" />
+      <workItem from="1711375436595" duration="4763000" />
     </task>
     <servers />
   </component>
