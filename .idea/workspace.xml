@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/ageComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/areaPerimeterComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/divisibilityBy5ButNot3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/divisibilityBy5or3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/divisibilityCheckBy5and3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/greatestOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/maths_Questions/pointCircleLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/maths_Questions/pointLocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/maths_Questions/threePointsOnLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/nested_if_else/ageComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/nested_if_else/divisibleBy5or3ButNot15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/nested_if_else/greatestOfThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/sidesOfTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/squareOrNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/threeDigitNumCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/twoDigitNumCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/classificationByAge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/evenAndDivisibleBy3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/dayPrinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/simpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaOperators/basics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,6 +56,8 @@
     "Application.basics.executor": "Run",
     "Application.basicsOfJava.executor": "Run",
     "Application.charDataType.executor": "Run",
+    "Application.classificationByAge.executor": "Run",
+    "Application.dayPrinting.executor": "Run",
     "Application.divisibilityBy5ButNot3.executor": "Run",
     "Application.divisibilityBy5or3.executor": "Run",
     "Application.divisibilityCheckBy5and3.executor": "Run",
@@ -86,6 +77,7 @@
     "Application.profitLoss.executor": "Run",
     "Application.remainder.executor": "Run",
     "Application.sidesOfTriangle.executor": "Run",
+    "Application.simpleCalculator.executor": "Run",
     "Application.simpleInterest.executor": "Run",
     "Application.square.executor": "Run",
     "Application.squareOrNot.executor": "Run",
@@ -173,6 +165,9 @@
       <workItem from="1711506783042" duration="34000" />
       <workItem from="1711537110015" duration="5118000" />
       <workItem from="1711546474212" duration="3409000" />
+      <workItem from="1711591452566" duration="1738000" />
+      <workItem from="1711598813092" duration="546000" />
+      <workItem from="1711619972292" duration="7510000" />
     </task>
     <servers />
   </component>
