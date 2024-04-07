@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/classificationByAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/evenAndDivisibleBy3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/dayPrinting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/if_else_Statement/switchCase/basics/simpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javaOperators/basics.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +82,7 @@
     "Application.variablesInDetail.executor": "Run",
     "Application.variables_int.executor": "Run",
     "Application.volumeOfSphere.executor": "Run",
+    "Java Scratch.Scratch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -100,44 +95,15 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.editor",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="basicsOfJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.basicsOfJava" />
-      <module name="JAVA_ProgrammingPriyu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="variables_int" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basics.variables_int" />
-      <module name="JAVA_ProgrammingPriyu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Basics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.basicsOfJava" />
-        <item itemvalue="Application.variables_int" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -168,6 +134,8 @@
       <workItem from="1711591452566" duration="1738000" />
       <workItem from="1711598813092" duration="546000" />
       <workItem from="1711619972292" duration="7510000" />
+      <workItem from="1712247215882" duration="382000" />
+      <workItem from="1712418218247" duration="1866000" />
     </task>
     <servers />
   </component>
