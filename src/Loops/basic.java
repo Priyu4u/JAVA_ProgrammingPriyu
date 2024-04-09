@@ -11,10 +11,21 @@ public class basic {
         // do while loop
 
         // syntax
-        // while
+
+        // while loop
         // while(condition){
             // code
         // }
+
+        // for loop
+        // for(initialisation; condition; increment){
+            // code
+        // }
+
+        // do while loop
+        // do{
+            // code
+        // }while(condition);
 
     }
 }
