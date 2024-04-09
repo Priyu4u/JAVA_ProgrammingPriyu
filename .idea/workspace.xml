@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops/basic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/while_loop/first_n_NaturalNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/doWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/forLoop/naturalNumSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/while_loop/naturalNumSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
     "Application.divisibilityCheckBy5and3.executor": "Run",
     "Application.divisibilityTestBy5.executor": "Run",
     "Application.divisibleBy5or3ButNot15.executor": "Run",
+    "Application.doWhile.executor": "Run",
     "Application.doubleDataType.executor": "Run",
     "Application.evenOdd.executor": "Run",
     "Application.first_n_NaturalNum.executor": "Run",
@@ -67,6 +70,7 @@
     "Application.incrementDecrementOperators.executor": "Run",
     "Application.leapYear.executor": "Run",
     "Application.moduloOperator.executor": "Run",
+    "Application.naturalNumSum.executor": "Run",
     "Application.percentage.executor": "Run",
     "Application.percentageIn60Marks.executor": "Run",
     "Application.pointCircleLocation.executor": "Run",
@@ -140,7 +144,7 @@
       <workItem from="1712247215882" duration="382000" />
       <workItem from="1712418218247" duration="1866000" />
       <workItem from="1712513002441" duration="367000" />
-      <workItem from="1712590806706" duration="1039000" />
+      <workItem from="1712590806706" duration="3073000" />
     </task>
     <servers />
   </component>
