@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops/doWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/forLoop/naturalNumSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/while_loop/naturalNumSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,74 +39,74 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.absoluteValue.executor": "Run",
-    "Application.ageComparison.executor": "Run",
-    "Application.areaOfCircle.executor": "Run",
-    "Application.areaPerimeterComparison.executor": "Run",
-    "Application.arithmeticOperations.executor": "Run",
-    "Application.basics.executor": "Run",
-    "Application.basicsOfJava.executor": "Run",
-    "Application.charDataType.executor": "Run",
-    "Application.classificationByAge.executor": "Run",
-    "Application.dayPrinting.executor": "Run",
-    "Application.divisibilityBy5ButNot3.executor": "Run",
-    "Application.divisibilityBy5or3.executor": "Run",
-    "Application.divisibilityCheckBy5and3.executor": "Run",
-    "Application.divisibilityTestBy5.executor": "Run",
-    "Application.divisibleBy5or3ButNot15.executor": "Run",
-    "Application.doWhile.executor": "Run",
-    "Application.doubleDataType.executor": "Run",
-    "Application.evenOdd.executor": "Run",
-    "Application.first_n_NaturalNum.executor": "Run",
-    "Application.grade.executor": "Run",
-    "Application.greatestOfThree.executor": "Run",
-    "Application.incrementDecrementOperators.executor": "Run",
-    "Application.leapYear.executor": "Run",
-    "Application.moduloOperator.executor": "Run",
-    "Application.naturalNumSum.executor": "Run",
-    "Application.percentage.executor": "Run",
-    "Application.percentageIn60Marks.executor": "Run",
-    "Application.pointCircleLocation.executor": "Run",
-    "Application.pointLocation.executor": "Run",
-    "Application.profitLoss.executor": "Run",
-    "Application.remainder.executor": "Run",
-    "Application.sidesOfTriangle.executor": "Run",
-    "Application.simpleCalculator.executor": "Run",
-    "Application.simpleInterest.executor": "Run",
-    "Application.square.executor": "Run",
-    "Application.squareOrNot.executor": "Run",
-    "Application.sumOf2NumInput.executor": "Run",
-    "Application.takingInputFromUser.executor": "Run",
-    "Application.threeDigitNumCheck.executor": "Run",
-    "Application.twoDigitNumCheck.executor": "Run",
-    "Application.variablesInDetail.executor": "Run",
-    "Application.variables_int.executor": "Run",
-    "Application.volumeOfSphere.executor": "Run",
-    "Java Scratch.Scratch.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "21",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/JAVA_ProgrammingPriyu",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.absoluteValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ageComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.areaOfCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.areaPerimeterComparison.executor&quot;: &quot;Run&quot;,
+    &quot;Application.arithmeticOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basicsOfJava.executor&quot;: &quot;Run&quot;,
+    &quot;Application.charDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.classificationByAge.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dayPrinting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divisibilityBy5ButNot3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divisibilityBy5or3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divisibilityCheckBy5and3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divisibilityTestBy5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.divisibleBy5or3ButNot15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
+    &quot;Application.doubleDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.evenOdd.executor&quot;: &quot;Run&quot;,
+    &quot;Application.first_n_NaturalNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.grade.executor&quot;: &quot;Run&quot;,
+    &quot;Application.greatestOfThree.executor&quot;: &quot;Run&quot;,
+    &quot;Application.incrementDecrementOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.leapYear.executor&quot;: &quot;Run&quot;,
+    &quot;Application.moduloOperator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.naturalNumSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.percentage.executor&quot;: &quot;Run&quot;,
+    &quot;Application.percentageIn60Marks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pointCircleLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.pointLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
+    &quot;Application.remainder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sidesOfTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simpleCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.simpleInterest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.squareOrNot.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sumOf2NumInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.takingInputFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.threeDigitNumCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.twoDigitNumCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variablesInDetail.executor&quot;: &quot;Run&quot;,
+    &quot;Application.variables_int.executor&quot;: &quot;Run&quot;,
+    &quot;Application.volumeOfSphere.executor&quot;: &quot;Run&quot;,
+    &quot;Java Scratch.Scratch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA_ProgrammingPriyu&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JAVA"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JAVA&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -145,6 +141,8 @@
       <workItem from="1712418218247" duration="1866000" />
       <workItem from="1712513002441" duration="367000" />
       <workItem from="1712590806706" duration="3073000" />
+      <workItem from="1712749004703" duration="714000" />
+      <workItem from="1712848871982" duration="1000" />
     </task>
     <servers />
   </component>
