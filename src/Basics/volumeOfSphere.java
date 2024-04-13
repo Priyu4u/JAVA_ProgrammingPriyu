@@ -8,6 +8,5 @@ public class volumeOfSphere {
         double vol = (4 * pi * rad * rad * rad) / 3;
         System.out.println(vol);
 
-
     }
 }
