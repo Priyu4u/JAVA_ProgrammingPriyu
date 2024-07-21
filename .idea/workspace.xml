@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Loops/countingDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/reverseDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/sumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loops/sumOfSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/primeCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +74,7 @@
     &quot;Application.percentageIn60Marks.executor&quot;: &quot;Run&quot;,
     &quot;Application.pointCircleLocation.executor&quot;: &quot;Run&quot;,
     &quot;Application.pointLocation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.primeCheck.executor&quot;: &quot;Run&quot;,
     &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
     &quot;Application.remainder.executor&quot;: &quot;Run&quot;,
     &quot;Application.removingDecimalPart.executor&quot;: &quot;Run&quot;,
@@ -160,6 +158,8 @@
       <workItem from="1713199259324" duration="274000" />
       <workItem from="1713199550035" duration="2607000" />
       <workItem from="1713242147097" duration="18000" />
+      <workItem from="1713859948642" duration="451000" />
+      <workItem from="1721146839702" duration="6000" />
     </task>
     <servers />
   </component>
