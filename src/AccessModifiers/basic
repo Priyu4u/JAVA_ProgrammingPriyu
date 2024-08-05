@@ -1,0 +1,7 @@
+Access Modifiers: It specifies the accessibility of variable , method etc
+Types of Access Modifiers :
+There are 4 types -
+    1. Public
+    2. Private
+    3. Protected
+    4. Default
