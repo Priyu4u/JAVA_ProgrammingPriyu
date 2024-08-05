@@ -5,10 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NumberSystem/BinaryToDecimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NumberSystem/DecimalToBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Intro/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS_Intro/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package1/AccessModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package1/CheckingAccess2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package2/AccessModifier2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImportingMyPackage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Constructor/BasicConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Constructor/ConsTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Maths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/StdLibMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/SumOfTwoNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/welcomeMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/AtmMachine/ATMMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Projects/hello.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,11 +54,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ATMMachine.executor": "Run",
+    "Application.AccessModifier.executor": "Run",
+    "Application.AccessModifier2.executor": "Run",
+    "Application.BasicConcept.executor": "Run",
     "Application.BinaryToDecimal.executor": "Run",
+    "Application.Checking.executor": "Run",
+    "Application.CheckingAccess2.executor": "Run",
+    "Application.ConsTypes.executor": "Run",
     "Application.DecimalToBinary.executor": "Run",
+    "Application.ImportingMyPackage.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Maths.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.StdLibMethods.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.SumOfTwoNum.executor": "Run",
     "Application.absoluteValue.executor": "Run",
     "Application.ageComparison.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
@@ -101,6 +121,7 @@
     "Application.variablesInDetail.executor": "Run",
     "Application.variables_int.executor": "Run",
     "Application.volumeOfSphere.executor": "Run",
+    "Application.welcomeMsg.executor": "Run",
     "Java Scratch.Scratch.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -168,7 +189,10 @@
       <workItem from="1713859948642" duration="451000" />
       <workItem from="1721146839702" duration="6000" />
       <workItem from="1722439806085" duration="6189000" />
-      <workItem from="1722582406980" duration="3272000" />
+      <workItem from="1722582406980" duration="7227000" />
+      <workItem from="1722706834739" duration="2377000" />
+      <workItem from="1722834633515" duration="9867000" />
+      <workItem from="1722859920012" duration="3052000" />
     </task>
     <servers />
   </component>
