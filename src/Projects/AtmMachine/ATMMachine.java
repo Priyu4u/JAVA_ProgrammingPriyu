@@ -39,7 +39,8 @@ class ATM{
         }else if(opt == 4){
             return;
         }else{
-            System.out.println("Enter a valid choice !");
+            System.out.println("Please enter a valid choice !");
+            menu();
         }
 
     }
