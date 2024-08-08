@@ -5,20 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package1/AccessModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package1/CheckingAccess2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/Package2/AccessModifier2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccessModifiers/basic" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImportingMyPackage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Constructor/BasicConcept.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Constructor/ConsTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Maths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/StdLibMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/SumOfTwoNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/welcomeMsg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/AtmMachine/ATMMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Projects/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Copying.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/CopyingByMethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/SearchingElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/SumOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/TakingInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Traversing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/PassByValueAndReference/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/TakingInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/TakingInput1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basics/TakingInput/moduloOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Basics/TakingInput/moduloOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects/AtmMachine/ATMMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/AtmMachine/ATMMachine.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,18 +58,26 @@
     "Application.AccessModifier.executor": "Run",
     "Application.AccessModifier2.executor": "Run",
     "Application.BasicConcept.executor": "Run",
+    "Application.Basics.executor": "Run",
     "Application.BinaryToDecimal.executor": "Run",
     "Application.Checking.executor": "Run",
     "Application.CheckingAccess2.executor": "Run",
     "Application.ConsTypes.executor": "Run",
+    "Application.Copying.executor": "Run",
+    "Application.CopyingByMethodCall.executor": "Run",
     "Application.DecimalToBinary.executor": "Run",
     "Application.ImportingMyPackage.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Maths.executor": "Run",
+    "Application.MaxValue.executor": "Run",
     "Application.Person.executor": "Run",
+    "Application.SearchingElement.executor": "Run",
     "Application.StdLibMethods.executor": "Run",
     "Application.Student.executor": "Run",
+    "Application.SumOfElements.executor": "Run",
     "Application.SumOfTwoNum.executor": "Run",
+    "Application.TakingInput.executor": "Run",
+    "Application.Traversing.executor": "Run",
     "Application.absoluteValue.executor": "Run",
     "Application.ageComparison.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
@@ -95,6 +103,7 @@
     "Application.hierarchyOfOperators.executor": "Run",
     "Application.incrementDecrementOperators.executor": "Run",
     "Application.leapYear.executor": "Run",
+    "Application.main.executor": "Run",
     "Application.moduloOperator.executor": "Run",
     "Application.naturalNumSum.executor": "Run",
     "Application.percentage.executor": "Run",
@@ -135,7 +144,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -193,6 +202,12 @@
       <workItem from="1722706834739" duration="2377000" />
       <workItem from="1722834633515" duration="9867000" />
       <workItem from="1722859920012" duration="3052000" />
+      <workItem from="1722870611565" duration="3238000" />
+      <workItem from="1722960253564" duration="3446000" />
+      <workItem from="1723005128647" duration="6783000" />
+      <workItem from="1723019336708" duration="144000" />
+      <workItem from="1723032153498" duration="623000" />
+      <workItem from="1723046550340" duration="4860000" />
     </task>
     <servers />
   </component>
