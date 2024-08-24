@@ -1,5 +1,8 @@
 package Array;
 
+// In java , there is only pass by value but passing array in method changes
+// the original array
+
 public class CopyingByMethodCall {
     static void zeroArray(int[] arr){
         for(int i=0; i<arr.length; i++){
