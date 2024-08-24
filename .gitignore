@@ -29,3 +29,7 @@ bin/
 .DS_Store
 *.xml
 *.xml
+*.xml
+*.xml
+*.xml
+.idea/misc.xml

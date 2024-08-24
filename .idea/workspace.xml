@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +28,7 @@
     <setting file="file://$PROJECT_DIR$/src/if_else_Statement/areaPerimeterComparison.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -47,24 +49,47 @@
     &quot;Application.BasicConcept.executor&quot;: &quot;Run&quot;,
     &quot;Application.Basics.executor&quot;: &quot;Run&quot;,
     &quot;Application.BinaryToDecimal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CheckIfSorted.executor&quot;: &quot;Run&quot;,
     &quot;Application.Checking.executor&quot;: &quot;Run&quot;,
     &quot;Application.CheckingAccess2.executor&quot;: &quot;Run&quot;,
     &quot;Application.ConsTypes.executor&quot;: &quot;Run&quot;,
     &quot;Application.Copying.executor&quot;: &quot;Run&quot;,
     &quot;Application.CopyingByMethodCall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyingDeep.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyingDeep2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyingShallow.executor&quot;: &quot;Run&quot;,
     &quot;Application.DecimalToBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElementLastOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ElementOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EvenOddIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FirstRepeatedValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.ImportingMyPackage.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Maths.executor&quot;: &quot;Run&quot;,
     &quot;Application.MaxValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumInRangeOfPowerOf2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Person.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PizzaBillGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuerySearchElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReversingArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateBykSteps1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotateBykSteps2.executor&quot;: &quot;Run&quot;,
     &quot;Application.SearchingElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestAndLargestReturn.executor&quot;: &quot;Run&quot;,
     &quot;Application.StdLibMethods.executor&quot;: &quot;Run&quot;,
     &quot;Application.Student.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfTwoNum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapUsingTempVar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SwapWithoutTempVar.executor&quot;: &quot;Run&quot;,
     &quot;Application.TakingInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TotalElementGreaterThanX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TotalPairSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Traversing.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TripletSumCount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UniqueElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZeroAndOneSorting.executor&quot;: &quot;Run&quot;,
     &quot;Application.absoluteValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.ageComparison.executor&quot;: &quot;Run&quot;,
     &quot;Application.areaOfCircle.executor&quot;: &quot;Run&quot;,
@@ -89,6 +114,7 @@
     &quot;Application.greatestOfThree.executor&quot;: &quot;Run&quot;,
     &quot;Application.hierarchyOfOperators.executor&quot;: &quot;Run&quot;,
     &quot;Application.incrementDecrementOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.k_thLargestAndSmallest.executor&quot;: &quot;Run&quot;,
     &quot;Application.leapYear.executor&quot;: &quot;Run&quot;,
     &quot;Application.main.executor&quot;: &quot;Run&quot;,
     &quot;Application.moduloOperator.executor&quot;: &quot;Run&quot;,
@@ -131,7 +157,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propGUI&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -140,6 +166,40 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="PizzaBillGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projects.PizzaBillGenerator.PizzaBillGenerator" />
+      <module name="JAVA_ProgrammingPriyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Projects.PizzaBillGenerator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroAndOneSorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.Questions.TwoPointerProblems.ZeroAndOneSorting" />
+      <module name="JAVA_ProgrammingPriyu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array.Questions.TwoPointerProblems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PizzaBillGenerator" />
+        <item itemvalue="Application.ZeroAndOneSorting" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -196,7 +256,28 @@
       <workItem from="1723032153498" duration="623000" />
       <workItem from="1723046550340" duration="4860000" />
       <workItem from="1723094500760" duration="383000" />
-      <workItem from="1723094896935" duration="162000" />
+      <workItem from="1723094896935" duration="886000" />
+      <workItem from="1723104118361" duration="1604000" />
+      <workItem from="1723108881891" duration="8180000" />
+      <workItem from="1723135275578" duration="4109000" />
+      <workItem from="1723218661536" duration="826000" />
+      <workItem from="1723284304119" duration="5503000" />
+      <workItem from="1723289887101" duration="3737000" />
+      <workItem from="1723295046612" duration="2193000" />
+      <workItem from="1723305612123" duration="6933000" />
+      <workItem from="1723358171600" duration="3329000" />
+      <workItem from="1723393960127" duration="1586000" />
+      <workItem from="1723481006368" duration="2454000" />
+      <workItem from="1723532188492" duration="283000" />
+      <workItem from="1723565461340" duration="2500000" />
+      <workItem from="1723569502965" duration="1708000" />
+      <workItem from="1723905673714" duration="3655000" />
+      <workItem from="1723911077094" duration="4988000" />
+      <workItem from="1724038084283" duration="1379000" />
+      <workItem from="1724239325181" duration="1236000" />
+      <workItem from="1724490191155" duration="1121000" />
+      <workItem from="1724501338478" duration="1247000" />
+      <workItem from="1724516123685" duration="812000" />
     </task>
     <servers />
   </component>
@@ -210,7 +291,15 @@
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
