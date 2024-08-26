@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/PrefixSumApproach/equalSumSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/PrefixSumApproach/equalSumSubarray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/PrefixSumApproach/rangeQuerySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/PrefixSumApproach/returnPrefixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Questions/TwoPointerProblems/squareInSorted.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -108,6 +111,8 @@
     &quot;Application.divisibleBy5or3ButNot15.executor&quot;: &quot;Run&quot;,
     &quot;Application.doWhile.executor&quot;: &quot;Run&quot;,
     &quot;Application.doubleDataType.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equalSumSubarray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.equalSumSubarray2.executor&quot;: &quot;Run&quot;,
     &quot;Application.evenOdd.executor&quot;: &quot;Run&quot;,
     &quot;Application.first_n_NaturalNum.executor&quot;: &quot;Run&quot;,
     &quot;Application.grade.executor&quot;: &quot;Run&quot;,
@@ -125,14 +130,17 @@
     &quot;Application.pointLocation.executor&quot;: &quot;Run&quot;,
     &quot;Application.primeCheck.executor&quot;: &quot;Run&quot;,
     &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
+    &quot;Application.rangeQuerySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.remainder.executor&quot;: &quot;Run&quot;,
     &quot;Application.removingDecimalPart.executor&quot;: &quot;Run&quot;,
+    &quot;Application.returnPrefixSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.reverseDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.sidesOfTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.simpleCalculator.executor&quot;: &quot;Run&quot;,
     &quot;Application.simpleInterest.executor&quot;: &quot;Run&quot;,
     &quot;Application.smallestOfThree.executor&quot;: &quot;Run&quot;,
     &quot;Application.square.executor&quot;: &quot;Run&quot;,
+    &quot;Application.squareInSorted.executor&quot;: &quot;Run&quot;,
     &quot;Application.squareOrNot.executor&quot;: &quot;Run&quot;,
     &quot;Application.sumOf2NumInput.executor&quot;: &quot;Run&quot;,
     &quot;Application.sumOfDigits.executor&quot;: &quot;Run&quot;,
@@ -166,7 +174,12 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Array.Questions.PrefixSumApproach" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PizzaBillGenerator">
     <configuration name="PizzaBillGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Projects.PizzaBillGenerator.PizzaBillGenerator" />
       <module name="JAVA_ProgrammingPriyu" />
@@ -278,6 +291,8 @@
       <workItem from="1724490191155" duration="1121000" />
       <workItem from="1724501338478" duration="1247000" />
       <workItem from="1724516123685" duration="812000" />
+      <workItem from="1724516955407" duration="2315000" />
+      <workItem from="1724563873611" duration="11573000" />
     </task>
     <servers />
   </component>
