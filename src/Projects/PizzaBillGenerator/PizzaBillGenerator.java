@@ -110,6 +110,7 @@ class Pizza{
 }
 public class PizzaBillGenerator {
     public static void main(String[] args) {
+
         Pizza obj = new Pizza();
     }
 }
