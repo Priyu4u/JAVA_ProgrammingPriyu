@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array2D/MatrixTranspose.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2D/Rotating90Degree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2D/basicInitialisation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2D/matrixAddition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2D/matrixMultiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2D/PascalTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects/PizzaBillGenerator/PizzaBillGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects/PizzaBillGenerator/PizzaBillGenerator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,12 +68,14 @@
     "Application.MatrixTranspose.executor": "Run",
     "Application.MaxValue.executor": "Run",
     "Application.NumInRangeOfPowerOf2.executor": "Run",
+    "Application.PascalTriangle.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.PizzaBillGenerator.executor": "Run",
     "Application.QuerySearchElement.executor": "Run",
     "Application.ReversingArray.executor": "Run",
     "Application.RotateBykSteps1.executor": "Run",
     "Application.RotateBykSteps2.executor": "Run",
+    "Application.Rotating90Degree.executor": "Run",
     "Application.SearchingElement.executor": "Run",
     "Application.SecondLargest.executor": "Run",
     "Application.SmallestAndLargestReturn.executor": "Run",
@@ -268,7 +265,8 @@
       <workItem from="1724679664090" duration="1890000" />
       <workItem from="1724738188828" duration="102000" />
       <workItem from="1724738317286" duration="292000" />
-      <workItem from="1724764095149" duration="3990000" />
+      <workItem from="1724764095149" duration="5521000" />
+      <workItem from="1724844275979" duration="2785000" />
     </task>
     <servers />
   </component>
