@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Array2D/SumOfRecPrefixSumRowCol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/Basics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ReverseArraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/SortString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +81,7 @@
     &quot;Application.SearchingElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargest.executor&quot;: &quot;Run&quot;,
     &quot;Application.SmallestAndLargestReturn.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortString.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpiralMatrixAntiClockwise.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpiralMatrixGenerate.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpiralMatrixTraversal.executor&quot;: &quot;Run&quot;,
@@ -137,11 +140,13 @@
     &quot;Application.pointCircleLocation.executor&quot;: &quot;Run&quot;,
     &quot;Application.pointLocation.executor&quot;: &quot;Run&quot;,
     &quot;Application.primeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.priyanshu.executor&quot;: &quot;Run&quot;,
     &quot;Application.profitLoss.executor&quot;: &quot;Run&quot;,
     &quot;Application.rangeQuerySum.executor&quot;: &quot;Run&quot;,
     &quot;Application.remainder.executor&quot;: &quot;Run&quot;,
     &quot;Application.removingDecimalPart.executor&quot;: &quot;Run&quot;,
     &quot;Application.returnPrefixSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.reverseArraylist.executor&quot;: &quot;Run&quot;,
     &quot;Application.reverseDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.sidesOfTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.simpleCalculator.executor&quot;: &quot;Run&quot;,
@@ -279,6 +284,12 @@
       <workItem from="1725083807635" duration="1077000" />
       <workItem from="1725118944713" duration="4189000" />
       <workItem from="1725125471242" duration="1632000" />
+      <workItem from="1725196781644" duration="201000" />
+      <workItem from="1725208437062" duration="1737000" />
+      <workItem from="1725270360361" duration="177000" />
+      <workItem from="1725347659828" duration="6147000" />
+      <workItem from="1725360532615" duration="3965000" />
+      <workItem from="1725383444777" duration="11000" />
     </task>
     <servers />
   </component>
