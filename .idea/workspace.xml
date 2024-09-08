@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/Basics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ReverseArraylist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/SortString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/CountDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/FibonacciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/Print1toN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,10 +63,13 @@
     &quot;Application.CopyingDeep.executor&quot;: &quot;Run&quot;,
     &quot;Application.CopyingDeep2.executor&quot;: &quot;Run&quot;,
     &quot;Application.CopyingShallow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.DecimalToBinary.executor&quot;: &quot;Run&quot;,
     &quot;Application.ElementLastOccurrence.executor&quot;: &quot;Run&quot;,
     &quot;Application.ElementOccurrence.executor&quot;: &quot;Run&quot;,
     &quot;Application.EvenOddIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
     &quot;Application.FirstRepeatedValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.ImportingMyPackage.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
@@ -73,6 +80,9 @@
     &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Person.executor&quot;: &quot;Run&quot;,
     &quot;Application.PizzaBillGenerator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Power.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Print1toN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNto1.executor&quot;: &quot;Run&quot;,
     &quot;Application.QuerySearchElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReversingArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RotateBykSteps1.executor&quot;: &quot;Run&quot;,
@@ -87,6 +97,7 @@
     &quot;Application.SpiralMatrixTraversal.executor&quot;: &quot;Run&quot;,
     &quot;Application.StdLibMethods.executor&quot;: &quot;Run&quot;,
     &quot;Application.Student.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfRecPrefixSumRowCol.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumOfRectangle.executor&quot;: &quot;Run&quot;,
@@ -290,6 +301,9 @@
       <workItem from="1725347659828" duration="6147000" />
       <workItem from="1725360532615" duration="3965000" />
       <workItem from="1725383444777" duration="11000" />
+      <workItem from="1725690577181" duration="8885000" />
+      <workItem from="1725775263049" duration="8846000" />
+      <workItem from="1725815410806" duration="152000" />
     </task>
     <servers />
   </component>
@@ -306,6 +320,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="2" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="3" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
