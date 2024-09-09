@@ -7,7 +7,7 @@ public class Power {
     }
 
     // Alternate approach
-    static int pow2(int p, int q){
+    static int pow2(int p, int q){      // time complexity : O[log(q)]
         if(q==0) return 1;
         int smallAns = pow2(p,q/2);
         if(q%2==0) return smallAns * smallAns;

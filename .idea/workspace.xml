@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/CountDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/FibonacciSeries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/Print1toN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SumOfDigits.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Recursion/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Recursion/Power.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -304,6 +298,7 @@
       <workItem from="1725690577181" duration="8885000" />
       <workItem from="1725775263049" duration="8846000" />
       <workItem from="1725815410806" duration="152000" />
+      <workItem from="1725874883029" duration="793000" />
     </task>
     <servers />
   </component>
