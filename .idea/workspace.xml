@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/GCD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/MultiplesOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/SumAlternateSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/ArmstrongNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/MaxValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/PrintValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/SumOfElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +48,7 @@
     "Application.ATMMachine.executor": "Run",
     "Application.AccessModifier.executor": "Run",
     "Application.AccessModifier2.executor": "Run",
+    "Application.ArmstrongNumber.executor": "Run",
     "Application.BasicConcept.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.BinaryToDecimal.executor": "Run",
@@ -81,6 +83,7 @@
     "Application.Power.executor": "Run",
     "Application.Print1toN.executor": "Run",
     "Application.PrintNto1.executor": "Run",
+    "Application.PrintValues.executor": "Run",
     "Application.QuerySearchElement.executor": "Run",
     "Application.ReversingArray.executor": "Run",
     "Application.RotateBykSteps1.executor": "Run",
@@ -305,7 +308,8 @@
       <workItem from="1725815410806" duration="152000" />
       <workItem from="1725874883029" duration="943000" />
       <workItem from="1725899227580" duration="6146000" />
-      <workItem from="1725950885803" duration="4421000" />
+      <workItem from="1725950885803" duration="5461000" />
+      <workItem from="1726037051707" duration="11039000" />
     </task>
     <servers />
   </component>
