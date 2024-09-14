@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/LastIndex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/SortedArrayCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/TargetElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnArray/TargetIndices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnStrings/RemoveOccurrence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnStrings/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnStrings/StringBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/PalindromeInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnStrings/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/RecursionOnStrings/ReturnSSQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +77,8 @@
     &quot;Application.MaxValue.executor&quot;: &quot;Run&quot;,
     &quot;Application.MultiplesOfN.executor&quot;: &quot;Run&quot;,
     &quot;Application.NumInRangeOfPowerOf2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeInteger.executor&quot;: &quot;Run&quot;,
     &quot;Application.PascalTriangle.executor&quot;: &quot;Run&quot;,
     &quot;Application.Person.executor&quot;: &quot;Run&quot;,
     &quot;Application.PizzaBillGenerator.executor&quot;: &quot;Run&quot;,
@@ -91,6 +89,7 @@
     &quot;Application.QuerySearchElement.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveA.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveOccurrence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReturnSSQ.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseString.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReversingArray.executor&quot;: &quot;Run&quot;,
     &quot;Application.RotateBykSteps1.executor&quot;: &quot;Run&quot;,
@@ -324,7 +323,9 @@
       <workItem from="1726115659073" duration="7942000" />
       <workItem from="1726125697991" duration="10248000" />
       <workItem from="1726224191950" duration="1334000" />
-      <workItem from="1726225543501" duration="599000" />
+      <workItem from="1726225543501" duration="4830000" />
+      <workItem from="1726243669931" duration="2768000" />
+      <workItem from="1726293071927" duration="1209000" />
     </task>
     <servers />
   </component>
