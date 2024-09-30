@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Recursion/KeypadCombination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/CountSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     &quot;Application.CopyingDeep2.executor&quot;: &quot;Run&quot;,
     &quot;Application.CopyingShallow.executor&quot;: &quot;Run&quot;,
     &quot;Application.CountDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CountSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.DecimalToBinary.executor&quot;: &quot;Run&quot;,
     &quot;Application.ElementLastOccurrence.executor&quot;: &quot;Run&quot;,
     &quot;Application.ElementOccurrence.executor&quot;: &quot;Run&quot;,
@@ -88,6 +90,7 @@
     &quot;Application.PrintSSQ.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintValues.executor&quot;: &quot;Run&quot;,
     &quot;Application.QuerySearchElement.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuickSort.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveA.executor&quot;: &quot;Run&quot;,
     &quot;Application.RemoveOccurrence.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReturnSSQ.executor&quot;: &quot;Run&quot;,
@@ -331,6 +334,10 @@
       <workItem from="1726331731950" duration="2083000" />
       <workItem from="1726385821824" duration="3553000" />
       <workItem from="1726557141987" duration="14000" />
+      <workItem from="1727502676885" duration="3120000" />
+      <workItem from="1727505818806" duration="5400000" />
+      <workItem from="1727523429356" duration="618000" />
+      <workItem from="1727697917042" duration="116000" />
     </task>
     <servers />
   </component>
