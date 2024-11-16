@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6b56f34-5f36-4dc5-bde7-aa2a23093c30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/BucketSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/ProblemsOnSorting/TwoSwappedInSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch/BasicBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch/Problems/FindSquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch/Problems/FirstOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch/Problems/LastOccurrence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Searching/BinarySearch/RecursiveBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/ProblemsOnSorting/PositiveNegativeSegregate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SortingAlgorithms/ProblemsOnSorting/ZeroOneTwoSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortingAlgorithms/ProblemsOnSorting/TwoSwappedInSortedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortingAlgorithms/ProblemsOnSorting/TwoSwappedInSortedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,7 @@
     "Application.AccessModifier.executor": "Run",
     "Application.AccessModifier2.executor": "Run",
     "Application.ArmstrongNumber.executor": "Run",
+    "Application.BasicBinarySearch.executor": "Run",
     "Application.BasicConcept.executor": "Run",
     "Application.Basics.executor": "Run",
     "Application.BinaryToDecimal.executor": "Run",
@@ -67,12 +74,15 @@
     "Application.EvenOddIntegers.executor": "Run",
     "Application.Factorial.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
+    "Application.FindSquareRoot.executor": "Run",
+    "Application.FirstOccurrence.executor": "Run",
     "Application.FirstRepeatedValue.executor": "Run",
     "Application.FrogJump.executor": "Run",
     "Application.GCD.executor": "Run",
     "Application.ImportingMyPackage.executor": "Run",
     "Application.KeypadCombination.executor": "Run",
     "Application.LastIndex.executor": "Run",
+    "Application.LastOccurrence.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Maths.executor": "Run",
     "Application.MatrixTranspose.executor": "Run",
@@ -84,6 +94,7 @@
     "Application.PascalTriangle.executor": "Run",
     "Application.Person.executor": "Run",
     "Application.PizzaBillGenerator.executor": "Run",
+    "Application.PositiveNegativeSegregate.executor": "Run",
     "Application.Power.executor": "Run",
     "Application.Print1toN.executor": "Run",
     "Application.PrintNto1.executor": "Run",
@@ -92,6 +103,7 @@
     "Application.QuerySearchElement.executor": "Run",
     "Application.QuickSort.executor": "Run",
     "Application.RadixSort.executor": "Run",
+    "Application.RecursiveBinarySearch.executor": "Run",
     "Application.RemoveA.executor": "Run",
     "Application.RemoveOccurrence.executor": "Run",
     "Application.ReturnSSQ.executor": "Run",
@@ -131,6 +143,7 @@
     "Application.TwoSwappedInSortedArray.executor": "Run",
     "Application.UniqueElement.executor": "Run",
     "Application.ZeroAndOneSorting.executor": "Run",
+    "Application.ZeroOneTwoSorting.executor": "Run",
     "Application.absoluteValue.executor": "Run",
     "Application.ageComparison.executor": "Run",
     "Application.areaOfCircle.executor": "Run",
@@ -343,6 +356,10 @@
       <workItem from="1727697917042" duration="116000" />
       <workItem from="1730518822678" duration="1724000" />
       <workItem from="1730721283127" duration="1407000" />
+      <workItem from="1730806220398" duration="4030000" />
+      <workItem from="1731129223822" duration="2976000" />
+      <workItem from="1731158909085" duration="3063000" />
+      <workItem from="1731473793425" duration="1555000" />
     </task>
     <servers />
   </component>
