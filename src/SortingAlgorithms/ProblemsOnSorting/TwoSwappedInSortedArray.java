@@ -1,5 +1,10 @@
 package SortingAlgorithms.ProblemsOnSorting;
 
+
+// Given an array where all its elements are sorted in ascending order
+// except two swapped elements, sort it in linear time. Assume there
+// are no duplicates in the array.
+
 public class TwoSwappedInSortedArray {
     public static void main(String[] args) {
         int[] arr = {3, 8, 6, 7, 5, 9, 10};
