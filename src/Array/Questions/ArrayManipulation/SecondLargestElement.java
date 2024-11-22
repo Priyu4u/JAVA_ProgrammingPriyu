@@ -7,7 +7,8 @@ public class SecondLargestElement {
         int max = Integer.MIN_VALUE;
         int secMax = Integer.MIN_VALUE;
         for(int i=0; i<arr.length; i++){
-            if(max < arr[i]){max = arr[i] ;
+            if(max < arr[i]) {
+                max = arr[i] ;
             }
         }
         for(int j=0; j<arr.length; j++){
